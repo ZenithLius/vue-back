@@ -2,8 +2,8 @@ const http = require('http');
 const url = require('url');
 
 const users = [
-    { id: 1122, name: "1" },
-    { id: 2133, name: '2' }
+    { id: 88, name: "999" },
+    { id: 999, name: '9992' }
 ];
 
 console.log('Attempting to start server...');
